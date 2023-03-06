@@ -1,1 +1,1 @@
-# Fase1-Javascript-Lab3
+# Fase1-Frontend-Javascript-Lab3
